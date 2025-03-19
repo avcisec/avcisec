@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avcisec&label=Profile%20views&color=0e75b6&style=flat" alt="avcisec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avcisec" alt="avcisec" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avcisec&theme=gruvbox" alt="avcisec" /></a> </p>
 
 - 🔭 I’m currently working on [Krios Staking Protocol](https://github.com/avcisec/Krios-staking-protocol)
 
-- 🌱 I’m currently learning **Solidity, AMM, Yield Farming, Staking, Uniswap**
+- 🌱 I’m learning **Solidity, AMM, Yield Farming, Staking, Uniswap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avcisec?tab=repositories](https://github.com/avcisec?tab=repositories)
 
