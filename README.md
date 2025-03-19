@@ -1,67 +1,29 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=avcisec&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+<h1 align="center">Hi there!👋 I'm 0xavci</h1>
+<h3 align="center">A Web3 Security Researcher from France</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avcisec&label=Profile%20views&color=0e75b6&style=flat" alt="avcisec" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avcisec" alt="avcisec" /></a> </p>
+
+- 🔭 I’m currently working on [Krios Staking Protocol](https://github.com/avcisec/Krios-staking-protocol)
+
+- 🌱 I’m currently learning **Solidity, AMM, Yield Farming, Staking, Uniswap**
+
+- 👨‍💻 All of my projects are available at [https://github.com/avcisec?tab=repositories](https://github.com/avcisec?tab=repositories)
+
+- 💬 Ask me about **Solidity, EVM**
+
+- 📫 How to reach me **0xavci@protonmail.com** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xavci" height="30" width="40" /></a> 0xavci
 </p>
 
- ![](./profile-3d-contrib/profile-night-view.svg)
-<!-- 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=avcisec&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
-
-### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-  <br />
-  
-  Hi, I'm a Web3 Security Researcher, with 6 months experience in EVM and Solidity.
-
-I'm very familiar with Solidity | DApp | Smart Contract | Staking | NFTs
-
-I am currently learning Solidity, AMM, Yield Farming, Staking, Uniswap
-
-
-<br />
-
- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-💗 **My Favorites Techs:**
-
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
-<p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=avcisec.visitor-badge" />
-<img align="right" src="https://img.shields.io/github/followers/avcisec?label=Follow&style=social" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xavcieth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xavcieth" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=avcisec&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=avcisec&theme=github&count_private=true) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avcisec&show_icons=true&locale=en" alt="avcisec" /></p>
 
-<div align="center"/>
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=avcisec)
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=avcisec&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcisec&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avcisec&" alt="avcisec" /></p>
