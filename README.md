@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avcisec&theme=gruvbox" alt="avcisec" /></a> </p>
 
-- 🔭 I’m currently working on [Krios Staking Protocol](https://github.com/avcisec/Krios-staking-protocol)
+- 🔭 I’m currently working on [Krios Staking Protocol](https://github.com/avcisec/Krios-staking-protocol) but also getting Rusty 🦀
 
 - 🌱 I’m learning **Solidity, AMM, Yield Farming, Staking, Uniswap**
 
